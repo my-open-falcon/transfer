@@ -22,7 +22,7 @@ func main() {
 		os.Exit(0)
 	}
 	if *versionGit {
-		fmt.Println(g.VERSION, g.COMMIT)
+		fmt.Println(g.VERSION)
 		os.Exit(0)
 	}
 
