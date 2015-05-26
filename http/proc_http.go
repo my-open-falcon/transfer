@@ -1,8 +1,8 @@
 package http
 
 import (
-	cutils "github.com/open-falcon/common/utils"
-	"github.com/open-falcon/transfer/proc"
+	cutils "github.com/my-open-falcon/common/utils"
+	"github.com/my-open-falcon/transfer/proc"
 	"net/http"
 	"strings"
 )

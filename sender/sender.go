@@ -2,10 +2,10 @@ package sender
 
 import (
 	"fmt"
-	cmodel "github.com/open-falcon/common/model"
-	"github.com/open-falcon/transfer/g"
-	"github.com/open-falcon/transfer/proc"
-	cpool "github.com/open-falcon/transfer/sender/conn_pool"
+	cmodel "github.com/my-open-falcon/common/model"
+	"github.com/my-open-falcon/transfer/g"
+	"github.com/my-open-falcon/transfer/proc"
+	cpool "github.com/my-open-falcon/transfer/sender/conn_pool"
 	"github.com/toolkits/container/list"
 	"log"
 )

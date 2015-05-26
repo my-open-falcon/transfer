@@ -1,12 +1,12 @@
 package rpc
 
 import (
-	"github.com/open-falcon/transfer/g"
+	"github.com/my-open-falcon/transfer/g"
 	"log"
 	"net"
 	"net/rpc"
 	"net/rpc/jsonrpc"
-)
+)/**/
 
 func StartRpc() {
 	if !g.Config().Rpc.Enabled {

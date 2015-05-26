@@ -1,8 +1,8 @@
 package sender
 
 import (
-	"github.com/open-falcon/transfer/g"
-	cpool "github.com/open-falcon/transfer/sender/conn_pool"
+	"github.com/my-open-falcon/transfer/g"
+	cpool "github.com/my-open-falcon/transfer/sender/conn_pool"
 	"github.com/toolkits/container/set"
 )
 
